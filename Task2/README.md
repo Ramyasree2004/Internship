@@ -1,1 +1,4 @@
-"# Task-2" 
+# Task 2: Data Visualization & Storytelling
+
+The dataset I have used is "Superstore.csv"
+To use Power BI to create meaningful visualizations that tell a business story from a sales dataset.
