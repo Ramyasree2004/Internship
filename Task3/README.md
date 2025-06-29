@@ -1,3 +1,2 @@
 # Task 3: Dashboard Design
-The dataset I have used is SuperStore Dataset. 
-This dashboard visualizes key business performance metrics from a retail dataset using Power BI.
+The dataset I have used is "Superstore.csv" To use Power BI to create meaningful visualizations that tell a business story from a sales dataset.
