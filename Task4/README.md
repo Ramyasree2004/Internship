@@ -1,5 +1,3 @@
-# 🧠 Internship Task Repository
+# Task 4: SQL for Data Analysis
 
-Welcome to my Internship Task Repository!  
-This repository contains all the tasks I’ve completed as part of my data analytics and software development internship. Each task is organized into its own folder and includes a detailed README, relevant code (Python, Jupyter), and outputs.
-
+This task focuses on analyzing an e-commerce sales dataset (Global Superstore) using SQL. The goal is to explore various SQL operations such as aggregation, joins, grouping, views, and basic data summarization to extract business insights.
